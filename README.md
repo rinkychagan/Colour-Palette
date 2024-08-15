@@ -1,22 +1,15 @@
-<h1>Colour Palette Generator</h1>
+<h1>Tic Tac Toe</h1>
 <h4>Overview</h4>
-<p>The Colour Palette Generator is a straightforward tool created to assist users in generating random colour palettes. This project was created for a Bootcamp challenge and demonstrates essential features regarding choosing and adjusting colors. Users can create a group of five random colors, with the option to lock certain colors, copy their codes, and easily generate new colors quickly.</p>
-
-![morecoolors](https://github.com/user-attachments/assets/be95a8d2-b3ea-4661-914d-7b56d889a16c)
-
-
+<p>The Tic Tac Toe game was created during a Bootcamp challenge as a collaborative project. This game allows two players to engage in a classic game of Tic Tac Toe, with features that include tracking the current player and determining the winner or if the game results in a draw. The project was developed using React, showcasing fundamental skills in building interactive user interfaces.</p>
 
 <h4>Features</h4>
 <ul>
-<li>Colour Locking: Users can lock a specific colour to prevent it from changing when generating a new palette.</li>
-<li>Copy Colour Code: Easily copy the hexadecimal colour code to the clipboard with a single click.</li>
-<li>Generate New Colours: Click to instantly generate a new set of random colours, while keeping locked colours intact.</li>
+<li>Interactive Gameplay: Play the classic game of Tic Tac Toe with two players.</li>
+<li>Current Player Display: The interface clearly shows whose turn it is.</li>
+<li>Win/Loss/Draw Detection: Automatically determines and displays the game outcome.</li>
 </ul>
 
 <h4>Tools</h4>
 <ul>
-<li>Development: React.JS, Tailwind CSS</li>
+<li>Development: React.JS</li>
 </ul>
-
-
-Thank you!! :)
