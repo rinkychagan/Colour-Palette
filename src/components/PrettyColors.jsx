@@ -28,16 +28,24 @@ export function PrettyColors() {
   }
 
   return (
-    <div>
-      {batata &&
-        batata.map((e, i) => (
-          <RandomColor
-            block={e.block}
-            cor={e.cor}
-            onBlock={() => handleBlock(i)}
-          ></RandomColor>
-        ))}
-      <button onClick={() => handleClick()}>djhasdkjshakj</button>
+    <div className="h-screen flex items-center justify-center align-center  flex-col">
+      <h1 className="text-4xl text-Black mb-4 font-bold">Palette Generator</h1>
+      <div className="flex flex-row">
+        {batata &&
+          batata.map((e, i) => (
+            <RandomColor
+              block={e.block}
+              cor={e.cor}
+              onBlock={() => handleBlock(i)}
+            ></RandomColor>
+          ))}
+      </div>
+      <button
+        className="w-fit h-fit bg-gray-400 hover:bg-gray-500 p-4 rounded-lg text-white font-bold mt-8"
+        onClick={() => handleClick()}
+      >
+        Randomize
+      </button>
     </div>
   );
 }
