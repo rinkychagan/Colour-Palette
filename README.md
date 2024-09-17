@@ -2,7 +2,8 @@
 <h4>Overview</h4>
 <p>This is just a basic colour generator. This project was made during Bootcamp.</p>
 
-![morecoolors](https://github.com/user-attachments/assets/be95a8d2-b3ea-4661-914d-7b56d889a16c)
+
+![coolors](https://github.com/user-attachments/assets/6bb9e399-b31c-46c7-a6e7-8abe88f46c80)
 
 
 
