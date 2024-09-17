@@ -4,7 +4,7 @@ import { PrettyColors } from "./components/PrettyColors";
 function App() {
   return (
     <div>
-      <PrettyColors></PrettyColors>
+      <PrettyColors />
     </div>
   );
 }
