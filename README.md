@@ -11,11 +11,11 @@
 <ul>
 <li>Ability to block a colour, from re-generating when you click on "Randomize" </li>
 <li>Ability to copy the colour code</li>
-<li>Booking System: Users can book travel packages</li>
-<li>Admin Panel: Admins can manage travel packages, including adding, updating, and removing packages.</li>
+<li>Gradient background: Rendered with the colours of the generated palette</li>
+
 </ul>
 
 <h4>Tools</h4>
 <ul>
-<li>Development: React.JS Tailwind CSS</li>
+<li>Development: React.JS, Tailwind CSS</li>
 </ul>
